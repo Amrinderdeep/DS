@@ -1,0 +1,1 @@
+int arr[], int capacity, int pos, int val , int last
